@@ -234,8 +234,11 @@ input:active {
     font-size: 28px;
   }
   .nimasec-pic,
-  .rasta-sec-pic,
-  .jail {
+  .rasta-sec-pic {
+    width: 300px;
+    height: 280px;
+  }
+  .jp img{
     width: 300px;
     height: 280px;
   }
@@ -259,8 +262,11 @@ input:active {
     font-size: 15px;
   }
   .nimasec-pic,
-  .rasta-sec-pic,
-  .jail {
+  .rasta-sec-pic {
+    width: 250px;
+    height: 250px;
+  }
+  .jp img{
     width: 250px;
     height: 250px;
   }

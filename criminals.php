@@ -71,7 +71,7 @@
         <div class="text-center">
           <img
             src="assets/images/jail.jpg"
-            class="jail"
+            class="nimasec-pic"
             width="1000"
             alt="Jail"
           />
