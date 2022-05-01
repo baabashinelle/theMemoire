@@ -1,0 +1,265 @@
+.header {
+  background-image: url("assets/images/p7.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  font-family: "Euclid Circular B", Arial, sans-serif;
+}
+.navbar {
+  padding-top: 0rem !important;
+  padding-bottom: 4rem !important;
+}
+.navbar-expand-lg .navbar-collapse {
+  padding-right: 4rem;
+}
+.color-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.2;
+}
+.header h3 {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 60px;
+  padding-top: 100px;
+  position: relative;
+  z-index: 2;
+}
+.btn-div2 {
+  text-align: center;
+  padding-top: 20px;
+  position: relative;
+  z-index: 2;
+}
+.navitems a {
+  font-size: 20px;
+  font-weight: bold;
+  color: white !important;
+  position: relative;
+  z-index: 2;
+  font-family: "Euclid Circular B", Arial, sans-serif;
+}
+.logo {
+  position: relative;
+  z-index: 2;
+  padding-left: 20px !important;
+}
+button {
+  height: 48px;
+  width: 180px;
+  border-style: none;
+  border: 1px solid white;
+  border-radius: 0.4rem !important;
+  background-color: transparent;
+  color: white;
+}
+.nima-pic {
+  height: 560px;
+  width: 560px;
+}
+.rasta-pic {
+  height: 560px;
+  width: 560px;
+}
+.second-sec {
+  font-family: "Euclid Circular B", Arial, sans-serif;
+}
+.second-sec h4 {
+  font-size: 40px;
+}
+body {
+  background-color: #111211 !important;
+  color: white !important;
+}
+.nima-sec {
+  font-family: "Euclid Circular B", Arial, sans-serif;
+}
+.nima-sec h3 {
+  font-size: 34px;
+}
+.nima-sec p {
+  font-size: 20px;
+  text-align: justify;
+}
+#preloader {
+  background: #000 url("assets/images/My\ project\ \(1\).png") no-repeat center;
+  background-size: 280px;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+.rasta-pic-mob,
+.nima-pic-mob {
+  display: none;
+}
+.navbar-nav .nav-link {
+  padding-left: 1rem !important;
+}
+.abt-sec {
+  font-family: "Euclid Circular B", Arial, sans-serif;
+  font-size: 21px;
+}
+.abt-sec p {
+  text-align: justify;
+}
+.footer-sec {
+  font-family: "Euclid Circular B", Arial, sans-serif;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-sec h3 {
+  font-size: 45px;
+}
+.footer-sec p {
+  font-size: 22px;
+}
+input:placeholder-shown {
+  background-color: white !important;
+}
+.input-group > .form-control {
+  flex: 0.4 auto !important;
+}
+.input-group {
+  justify-content: center;
+}
+input:focus,
+input:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.alert {
+  margin: -9px 0 12px 0;
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #111211;
+  border: 1px solid #bbb;
+}
+.larry-pic {
+  height: 500px;
+  width: 490px;
+  padding-left: 140px;
+}
+.btn-linkedin {
+  border: 1px solid white;
+  width: 135px;
+}
+.btn-div {
+  justify-content: left;
+  align-items: left;
+  display: flex;
+}
+@media screen and (max-width: 768px) {
+  .logo {
+    width: 10px !important;
+    margin: 0px;
+    padding-left: 5px !important;
+  }
+  .navbar-light .navbar-toggler-icon {
+    background-image: url("assets/images/menu.png") !important;
+    background-size: 20px;
+  }
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler-icon:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .navbar-toggler {
+    padding-left: 80px !important;
+  }
+  .navbar {
+    padding-bottom: 2.5rem !important;
+  }
+  .header h3 {
+    font-size: 30px;
+  }
+  button {
+    width: 120px;
+  }
+  .second-sec h4 {
+    font-size: 30px;
+  }
+  .second-sec h6 {
+    font-size: 13px;
+  }
+  .second-sec h3 {
+    font-size: 30px !important;
+  }
+  .second-sec p {
+    font-size: 18px !important;
+  }
+  .nima-pic-mob,
+  .rasta-pic-mob {
+    width: 350px;
+    height: 350px;
+    padding-top: 30px;
+  }
+  .rasta-pic,
+  .nima-pic {
+    display: none;
+  }
+  .rasta-pic-mob,
+  .nima-pic-mob {
+    display: unset;
+  }
+  .larry-pic {
+    height: 490px;
+    width: 316px;
+    padding-left: 0px;
+    padding-top: 20px;
+  }
+  .me-div,
+  .btn-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .abt-sec {
+    font-size: 18px;
+  }
+  #preloader {
+    background-size: 200px;
+  }
+  .nima-sec h3 {
+    font-size: 28px;
+  }
+  .nimasec-pic,
+  .rasta-sec-pic {
+    width: 300px;
+    height: 280px;
+  }
+  .nima-sec p {
+    font-size: 18px;
+    text-align: justify;
+    word-wrap: break-word;
+  }
+  .footer-sec h3 {
+    font-size: 35px;
+  }
+  .footer-sec p {
+    font-size: 19px;
+  }
+}
+@media screen and (max-width: 321px) {
+  .footer-sec h3 {
+    font-size: 25px;
+  }
+  .footer-sec p {
+    font-size: 15px;
+  }
+  .nimasec-pic,
+  .rasta-sec-pic {
+    width: 250px;
+    height: 250px;
+  }
+}
