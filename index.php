@@ -92,7 +92,7 @@
       <div class="container">
         <h4
           class="text-center pt-4"
-          data-aos="fade-up"
+          data-aos="fade-right"
           data-aos-duration="1000"
           data-aos-once="true"
         >
@@ -101,7 +101,7 @@
         <hr
           width="200"
           style="margin: auto"
-          data-aos="fade-up"
+          data-aos="fade-right"
           data-aos-duration="1000"
           data-aos-once="true"
         />
