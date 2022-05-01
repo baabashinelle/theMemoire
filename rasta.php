@@ -70,7 +70,7 @@
           <img
             src="assets/images/rasta.jpg"
             width="1000"
-            alt=""
+            alt="Rastafarian"
             class="rasta-sec-pic"
           />
         </div>

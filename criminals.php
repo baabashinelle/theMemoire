@@ -71,9 +71,9 @@
         <div class="text-center">
           <img
             src="assets/images/jail.jpg"
-            class="Jail"
+            class="jail"
             width="1000"
-            alt=""
+            alt="Jail"
           />
         </div>
         <p class="pt-4">

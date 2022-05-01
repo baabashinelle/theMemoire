@@ -73,7 +73,7 @@
             src="assets/images/conflict.jpg"
             class="nimasec-pic"
             width="1000"
-            alt=""
+            alt="Conflict"
           />
         </div>
         <p class="pt-4">
