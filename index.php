@@ -136,13 +136,13 @@
           >
             <img
               src="assets/images/jail.jpg"
-              alt="Nima Conflict"
+              alt="Jail"
               class="nima-pic"
             />
             <!--For mobile-->
             <img
               src="assets/images/jail.jpg"
-              alt="Nima Conflict"
+              alt="Jail"
               class="nima-pic-mob"
             />
           </div>
