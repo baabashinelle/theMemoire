@@ -113,6 +113,49 @@
             data-delay="100"
             data-aos-once="true"
           >
+            <h6>MAY 1, 2022</h6>
+            <h3 style="font-size: 35px">Criminals and Rapists Do Not Deserve Punishment</h3>
+            <p style="font-size: 22px; text-align: justify" class="pb-4">
+              Everyone has heard their fair share of gory stories, ranging from unfortunate child abusers to school 
+              shootings that cause needless suffering. These events evoke disdain, anger and public disapproval as 
+              they should. I hasten to say that the telos of this essay does not assert that rapists, criminals and 
+              the likes should not be secluded from society. This essay is an investigation into what it means for a 
+              person to deserve punishment, the principles that govern our notion of retributive punishment, the coherency 
+              of these principles and how we can more ethically go about them.
+            </p>
+            <a href="criminals.php" style="color: white"
+              >READ MORE <i class="fas fa-angle-double-right"></i
+            ></a>
+          </div>
+          <div
+            class="col"
+            data-aos="fade-right"
+            data-aos-duration="1000"
+            data-delay="150"
+            data-aos-once="true"
+          >
+            <img
+              src="assets/images/jail.jpg"
+              alt="Nima Conflict"
+              class="nima-pic"
+            />
+            <!--For mobile-->
+            <img
+              src="assets/images/jail.jpg"
+              alt="Nima Conflict"
+              class="nima-pic-mob"
+            />
+          </div>
+        </div>
+
+        <div class="row pt-5">
+          <div
+            class="col"
+            data-aos="fade-right"
+            data-aos-duration="1000"
+            data-delay="100"
+            data-aos-once="true"
+          >
             <h6>JAN 19, 2022</h6>
             <h3 style="font-size: 35px">Nima Conflict</h3>
             <p style="font-size: 22px; text-align: justify" class="pb-4">
