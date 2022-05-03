@@ -1,4 +1,4 @@
-A repository of a fully functional blogsite - The Memoire, in PHP, HTML and CSS.
+A repository of a simple and fully functional blogsite - The Memoire, in PHP, HTML and CSS.
 The index page of this site has a summary of all the author's articles and a link to read more about each of them.
 I implemented the email subscription functioanlity with PHP.
 Kindly visit the site to read some interesting articles and do not forget to subscribe to my friend's blog!
