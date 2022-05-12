@@ -73,7 +73,7 @@
               platform for me to incite pure inquiry within the Ghanaian reader.
               I submit beforehand that I am certainly going to be wrong in some
               respects (not intentionally of course), however, the purpose of
-              this endeavour is conserved if one person, a least, is moved to
+              this endeavour is conserved if one person, at least, is moved to
               inquire more today than they did yesterday. I sincerely believe in
               the role guided curiosity and conversation have to play in
               technological, rational and moral progress. This is the nascence
