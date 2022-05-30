@@ -70,7 +70,7 @@
         </h3>
         <div class="text-center">
           <img
-            src="assets/images/jail.jpg"
+            src="assets/images/gracee.jpg"
             class="nimasec-pic"
             width="1000"
             alt="Jail"
@@ -83,7 +83,7 @@ the frame of moral saliency, they can be described as instances of divine provid
 According to a Guite and Soreng in their journal published in Research Gate, “Grace, in the
 Christian understanding, is the unconditional love, the free and undeserved favour of God” (1). This
 essay is a deep dive into the philosophy of this divine providence, whether it is identifiable
-intellectually and if it can only be determined upon hindsight
+intellectually and if it can only be determined upon hindsight.
         </p>
         <p>
           There is a heuristic, I believe, to which most people account for divine providence within their
@@ -116,13 +116,13 @@ entails the premises.
             The first criticism to this line of thinking, I believe, is best seen through the multiverse
 analogy below. Suppose a group of boys robbed a bank and the following ensued;
           <ul>
-                 <li>1. In the first world, the boys were caught and in the course of time they changed and became
+                 <li>In the first world, the boys were caught and in the course of time they changed and became
 respectable people (who led a righteous life).</li>
-                 <li>2. In the second world, the boys were caught but still turned out to be truants, living an unrighteous
+                 <li>In the second world, the boys were caught but still turned out to be truants, living an unrighteous
 life.</li>
-                 <li>3. In the third world, the boys escaped and in the course of time, upon reflection of their life,
+                 <li>In the third world, the boys escaped and in the course of time, upon reflection of their life,
 changed to became people who led righteous lives.</li>
-<li>4. In the fourth world the boys escaped and turned out to be truants all the same.</li>
+<li>In the fourth world the boys escaped and turned out to be truants all the same.</li>
              </ul>
         </p>
         <p>
@@ -162,7 +162,7 @@ concept of grace is not nearly as intellectually straightforward as we once thou
 intricacies in the conclusions that could be drawn by assigning a deed to be an act of grace.</p>
         <p>Mr. Larry Asiwome Afun</p>
         <p>University of Toronto</p>
-        <h2 class="text-center pt-4">Works Cited</h2>
+        <h2 class="pt-4">Works Cited</h2>
         <p>
           Guite, Thangbiakching, and Eric Soreng. “Grace of God: A Phenomenological Inquiry.”
         </p>

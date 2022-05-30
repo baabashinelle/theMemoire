@@ -105,6 +105,51 @@
           data-aos-duration="1000"
           data-aos-once="true"
         />
+
+        <div class="row pt-5">
+          <div
+            class="col"
+            data-aos="fade-right"
+            data-aos-duration="1000"
+            data-delay="100"
+            data-aos-once="true"
+          >
+            <h6>MAY 30, 2022</h6>
+            <h3 style="font-size: 35px">The Philosophical Problem of Grace</h3>
+            <p style="font-size: 22px; text-align: justify" class="pb-4">
+              Imagine for an instance that you upload a video on YouTube and become an overnight star or
+you make a tweet and that garners revenue generating attention. Fine-tuning these scenarios within
+the frame of moral saliency, they can be described as instances of divine providence or grace.
+According to a Guite and Soreng in their journal published in Research Gate, “Grace, in the
+Christian understanding, is the unconditional love, the free and undeserved favour of God” (1). This
+essay is a deep dive into the philosophy of this divine providence, whether it is identifiable
+intellectually and if it can only be determined upon hindsight.
+            </p>
+            <a href="grace.php" style="color: white"
+              >READ MORE <i class="fas fa-angle-double-right"></i
+            ></a>
+          </div>
+          <div
+            class="col"
+            data-aos="fade-right"
+            data-aos-duration="1000"
+            data-delay="150"
+            data-aos-once="true"
+          >
+            <img
+              src="assets/images/gracee.jpg"
+              alt="Jail"
+              class="nima-pic"
+            />
+            <!--For mobile-->
+            <img
+              src="assets/images/gracee.jpg"
+              alt="Jail"
+              class="nima-pic-mob"
+            />
+          </div>
+        </div>
+
         <div class="row pt-5">
           <div
             class="col"
