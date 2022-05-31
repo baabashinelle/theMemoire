@@ -145,11 +145,11 @@ quality of your life (a good pleasure), can be on its own, a ploy by an evil age
 grand ploy to sway an individual from the shadow of the divine supervisor. Since premise 2 states
 that only God can enforce or permit good pleasures, the example, if valid, annuls the whole
 argument because it would mean that good can be permitted or enforced by something other than
-God. This inadvertently becomes a sledge hammer to the proposition is because the conclusion can
+God. This inadvertently becomes a sledge hammer to the proposition because the conclusion can
 obviously not be true if it does not entail the premise. </p>
 <p>Nonetheless, a critique can also be that deeds themselves are neither evil nor good and that the
 potency for an action or a thing to be good or evil rests on the manner in which a conscious moral
-agent wields them. Therefore, a thing or an opportunity can be graciously given, however, if the
+agent wields them. Therefore, a thing or an opportunity can be given, however, if the
 means by which it is implemented is evil then it can in no way be attributed to a divine hand. This
 results in grace becoming a concept that can only be retrospectively defined. To elaborate, it means
 that no good or service can defined as an act of grace until it is utilised. This case in general is
