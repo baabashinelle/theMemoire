@@ -162,7 +162,7 @@ concept of grace is not nearly as intellectually straightforward as we once thou
 intricacies in the conclusions that could be drawn by assigning a deed to be an act of grace.</p>
         <p>Mr. Larry Asiwome Afun</p>
         <p>University of Toronto</p>
-        <h2 class="pt-4">Works Cited</h2>
+        <h2 class="text-center pt-4">References</h2>
         <p>
           Guite, Thangbiakching, and Eric Soreng. “Grace of God: A Phenomenological Inquiry.”
         </p>
