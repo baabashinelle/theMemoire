@@ -138,13 +138,13 @@ intellectually and if it can only be determined upon hindsight.
           >
             <img
               src="assets/images/gracee.jpg"
-              alt="Jail"
+              alt="Grace"
               class="nima-pic"
             />
             <!--For mobile-->
             <img
               src="assets/images/gracee.jpg"
-              alt="Jail"
+              alt="Grace"
               class="nima-pic-mob"
             />
           </div>
