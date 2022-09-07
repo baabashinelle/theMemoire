@@ -78,88 +78,99 @@
         </div>
         <p class="pt-4">
           Imagine for an instance that you upload a video on YouTube and become an overnight star or
-you make a tweet and that garners revenue generating attention. Fine-tuning these scenarios within
-the frame of moral saliency, they can be described as instances of divine providence or grace.
-According to a Guite and Soreng in their journal published in Research Gate, “Grace, in the
-Christian understanding, is the unconditional love, the free and undeserved favour of God” (1). This
-essay is a deep dive into the philosophy of this divine providence, whether it is identifiable
-intellectually and if it can only be determined upon hindsight.
+          you make a tweet and that garners revenue generating attention. Fine-tuning these scenarios within
+          the frame of moral saliency, they can be described as instances of divine providence or grace.
+          According to a Guite and Soreng in their journal published in Research Gate, “Grace, in the
+          Christian understanding, is the unconditional love, the free and undeserved favour of God” (1). This
+          essay is a deep dive into the philosophy of this divine providence, whether it is identifiable
+          intellectually and if it can only be determined upon hindsight.
         </p>
         <p>
           There is a heuristic, I believe, to which most people account for divine providence within their
-lives. I categorise this heuristic in the syllogism below;
+          lives. I categorise this heuristic in the syllogism below;
              <ul>
-                 <li>Premise 1 : Nothing that brings good pleasure is wrong</li>
-                 <li>Premise 2: Only God can enforce/permit good pleasure.</li>
+                 <li>Premise 1 : Nothing that brings good pleasure is wrong.</li>
+                 <li>Premise 2: Only God can enforce good pleasure.</li>
                  <li>Conclusion: All good pleasures are from God only.</li>
              </ul>
              <p>
                 In this tripartite, I am defining good pleasure to be any act that minimises suffering thereby
-positively influencing well-being while being either being morally good or morally neutral. This
-syllogism may appear outlandish on the surface, perhaps, due to its formal presentation, but I assert
-that it is a mental model that most Christians (or any other religious folks for that matter) make in
-assessing consequential issues. The illustrations in the introductory paragraph allude to that. The
-claim above relies on the fact that all good things are from God alone and so it follows that all good
-things that occur in one’s life are as a result of divine providence. We can call this divine providence
-based on the axiom that God owes no one (otherwise, it wouldn’t be unmerited favour i.e. grace).
-Now we could be pedantic and inquire as to whether “small pleasures” are products of grace. For
-example, “small pleasures” like making a 3-pointer at a high school basketball game or wining a
-game of frisbee with your friends on a warm Saturday afternoon. Instances like these generally can
-only be labelled as graceful acts insofar as they influence well-being significantly. So we will
-largely think of wining a frisbee match as an act of grace if for instance, it results in one joining the
-national frisbee olympics team, thereby improving the quality of one’s life. The overarching
-conjecture (the syllogism) is a popular line of reasoning whose conclusion holds true so long as it
-entails the premises.
+                positively influencing well-being while being either being morally good or morally neutral. This
+                syllogism may appear outlandish on the surface, perhaps, due to its formal presentation, but I assert
+                that it is a mental model that most Christians (or any other religious folks for that matter) make in
+                assessing consequential issues. The illustrations in the introductory paragraph allude to that. The
+                claim above relies on the fact that all good things are from God alone and so it follows that all good
+                things that occur in one’s life are as a result of divine providence. We can call this divine providence
+                based on the axiom that God owes no one (otherwise, it wouldn’t be unmerited favour i.e. grace).
+                Now we could be pedantic and inquire as to whether “small pleasures” are products of grace. For
+                example, “small pleasures” like making a 3-pointer at a high school basketball game or wining a
+                game of frisbee with your friends on a warm Saturday afternoon. Instances like these generally can
+                only be labelled as graceful acts insofar as they influence well-being significantly. So we will largely
+                 think of wining a frisbee match as an act of grace if for instance, it results in one joining the
+                national frisbee olympics team, thereby improving the quality of one’s life. The overarching
+                conjecture (the syllogism) is a popular line of reasoning whose conclusion holds true so long as it
+                entails the premises.
              </p>
         </p>
         <p>
-            The first criticism to this line of thinking, I believe, is best seen through the multiverse
-analogy below. Suppose a group of boys robbed a bank and the following ensued;
+            The first criticism to this line of thinking, I believe, is best seen through my multiverse
+            analogy below. Suppose a group of boys robbed a bank and the following ensued;
           <ul>
                  <li>In the first world, the boys were caught and in the course of time they changed and became
-respectable people (who led a righteous life).</li>
+                  respectable people (who led a righteous life).</li>
                  <li>In the second world, the boys were caught but still turned out to be truants, living an unrighteous
-life.</li>
+                  life.</li>
                  <li>In the third world, the boys escaped and in the course of time, upon reflection of their life,
-changed to became people who led righteous lives.</li>
-<li>In the fourth world the boys escaped and turned out to be truants all the same.</li>
+                  changed to became people who led righteous lives.</li>
+                 <li>In the fourth world the boys escaped and turned out to be truants all the same.</li>
              </ul>
         </p>
         <p>
           In the thought experiments, it may seem inconsistent with the syllogism in paragraph one to
-claim that any of the situations was an act of grace simply because it ended in a net positive good. If
-scenario 2 came into fruition (i.e. where the boys were caught and still turned out to be truants), it
-may presuppose that God destined the boys to a life unworthy to be lived since it resorts in
-condemnation. On the other hand, the tripartite will prevent one from labelling scenario 3 as an act
-of divine providence. This is because the action of robbing a bank itself is not moral. It is not a good
-pleasure and so from that line of reasoning, it cannot be from God, even if it results in a net good.
-You can argue as per the illustration 3, that the mere retrospective realisation of one’s wrong leading
-to righteousness is an act of grace. However, that commits you to the view that there can be divine
-conversion of minds, in which case you would have to square that view up with the notion of free
-will that most religious folks preach.
+          claim that any of the situations was an act of grace simply because it ended in a net positive good. If
+          scenario 2 came into fruition (i.e. where the boys were caught and still turned out to be truants), it
+          may presuppose that God destined the boys to a life unworthy to be lived since it directly results in
+          condemnation. On the other hand, the tripartite will also prevent one from labelling scenario 3 as an
+          act of divine providence. This is because the action of robbing a bank itself is not moral. It is not a
+          good pleasure and so from that line of reasoning, it cannot be from God, even if it results directly in
+          a net good. You can argue as per the illustration 3, that the mere retrospective realisation of one’s
+          wrong leading to righteousness is in itself an act of grace. However, that commits you to the view
+          that there can be divine conversion of minds, in which case you would have to square that view up
+          with the notion of free will that most religious folks preach.
         </p>
         <p>A potential source of contention can be found in the 2nd premise. This may be brought out by
-people who promulgate the view that good goods can be planted by the devil to cause or expedite
-net suffering (not necessarily physical suffering). In that world view, getting a job that improves the
-quality of your life (a good pleasure), can be on its own, a ploy by an evil agent. This may be a
-grand ploy to sway an individual from the shadow of the divine supervisor. Since premise 2 states
-that only God can enforce or permit good pleasures, the example, if valid, annuls the whole
-argument because it would mean that good can be permitted or enforced by something other than
-God. This inadvertently becomes a sledge hammer to the proposition because the conclusion can
-obviously not be true if it does not entail the premise. </p>
-<p>Nonetheless, a critique can also be that deeds themselves are neither evil nor good and that the
-potency for an action or a thing to be good or evil rests on the manner in which a conscious moral
-agent wields them. Therefore, a thing or an opportunity can be given, however, if the
-means by which it is implemented is evil then it can in no way be attributed to a divine hand. This
-results in grace becoming a concept that can only be retrospectively defined. To elaborate, it means
-that no good or service can defined as an act of grace until it is utilised. This case in general is
-permissible if and only if the assertion that only God can grant good pleasures is granted (which has
-a lot of evidence to show). </p>
-<p>In a nutshell, this essay represents an original inquiry into the nuance of divine providence,
-investigating possible arguments that could be made whilst leaving the topic open to further
-discussion. I hope to have done at least one of two things in this essay. To demonstrate that (1) The
-concept of grace is not nearly as intellectually straightforward as we once thought and (2) There are
-intricacies in the conclusions that could be drawn by assigning a deed to be an act of grace.</p>
+           people who promulgate the view that good goods can be planted by the devil to cause or expedite
+           net suffering (not necessarily physical suffering). In that world view, getting a job that improves the
+           quality of your life (a good pleasure), can be on its own, a ploy by an evil agent. This may be a
+           grand ploy to sway an individual from the shadow of the divine supervisor. Since premise 2 states
+           that only God can enforce or permit good pleasures, the example, if valid, annuls the whole
+           argument because it would mean that good can be permitted or enforced by something other than
+           God. This inadvertently becomes a sledge hammer to the proposition because the conclusion can
+           obviously not be true if it does not entail the premise. Of course, this proposition relies implicitly on
+           the assumption that commodities can have inherent moral worth. 
+          </p>
+          <p>Nonetheless, a critique can also be that deeds themselves are neither evil nor good and that the
+             potency for an action or a thing to be good or evil rests on the manner in which a conscious moral
+             agent wields them. Therefore, a thing or an opportunity can be given, however, if the means by
+             which it is implemented is evil then it can in no way be attributed to a divine hand. This results in
+             grace becoming a concept that can only be retrospectively defined. To elaborate, it means that no
+             good or service can defined as an act of grace until it is utilised. This case in general is permissible
+             if and only if the assertion that only God can grant good pleasures is granted (which has a lot of
+             evidence to show).</p>
+             <p>
+              In the third paragraph I gave a somewhat simplistic linear illustration as to why it may be an
+              issue to define an act as being gracious just based on the pleasures it brings in the moment. I argued
+              that if we can be certain that an act that in one instance brings pleasure directly results in the
+              condemnation of an individual, then the initial act cannot be one of divine providence. In this
+              paragraph, I shall up the ante of the illustration to address issues that arise in thinking about divine
+              providence in a complex interaction as shown in the diagram below.
+             </p>
+             <p></p>
+            <p>In a nutshell, this essay represents an original inquiry into the nuance of divine providence,
+              investigating possible arguments that could be made whilst leaving the topic open to further
+              discussion. I hope to have done at least one of two things in this essay. To demonstrate that (1) The
+              concept of grace is not nearly as intellectually straightforward as we once thought and (2) There are
+              intricacies in the conclusions that could be drawn by assigning a deed to be an act of grace.</p>
         <p>Mr. Larry Asiwome Afun</p>
         <p>University of Toronto</p>
         <h2 class="text-center pt-4">References</h2>
